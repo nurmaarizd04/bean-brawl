@@ -1,0 +1,11 @@
+{
+  "name": "Bean Brawl — Adu Jotos Kacang Antariksa",
+  "short_name": "Bean Brawl",
+  "description": "Game adu jotos 3D karakter kacang antariksa. Main bareng teman lewat kode room.",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#2a1b4a",
+  "theme_color": "#2a1b4a",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
